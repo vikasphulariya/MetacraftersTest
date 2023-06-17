@@ -32,6 +32,6 @@ function getTotalSupply() {
 // call your functions below this line
 mintNFT("NFT 1", "Blue", "T-shirt", );
 mintNFT("NFT 2", "Green", "Hoodie", );
-
+mintNFT("NFT 3","Red","Shirt",);
 listNFTs();
 console.log("Total Supply: " + getTotalSupply());
